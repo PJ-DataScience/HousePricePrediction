@@ -34,10 +34,9 @@ regressor.fit(X_train, y_train)
 
 predicted_price = regressor.predict([[3,5,0,15]])
 
-# Plot the results
+# Print the results
 
 print("The result is: ", predicted_price)
-
 
 # The predicted result is
 
