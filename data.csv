@@ -1,0 +1,11 @@
+no.of_bedrooms,how_old_it_is,type_of_building,how_far_its_from_city,price
+2,5,'apartment',20,2500000
+2,3,'apartment',10,6000000
+3,3,'apartment',25,4500000
+4,5,'independent',10,9000000
+4,10,'apartment',10,3000000
+5,2,'apartment',5,12000000
+2,2,'independent',5,15000000
+3,10,'independent',10,6000000
+5,10,'independent',10,7000000
+5,5,'apartment',10,5000000
